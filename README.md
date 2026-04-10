@@ -1,9 +1,8 @@
 🛒 Retail Sales Analytics | SQL Project
 
-"Tool" (https://img.shields.io/badge/Tool-SQL%20Server-blue)
-"Project" (https://img.shields.io/badge/Project-EDA-brightgreen)
-"Domain" (https://img.shields.io/badge/Domain-Retail%20Analytics-purple)
-
+![Tool](https://img.shields.io/badge/Tool-SQL%20Server-blue)
+![Project](https://img.shields.io/badge/Project-EDA-brightgreen)
+![Domain](https://img.shields.io/badge/Domain-Retail%20Analytics-purple)
 ---
 
 📌 Project Overview
